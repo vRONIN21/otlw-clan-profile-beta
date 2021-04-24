@@ -1,0 +1,122 @@
+@font-face {
+  font-family: nunito;
+  src: url(FONT/Nunito-Bold.ttf);
+}
+
+img {
+    max-width:auto;
+    height:400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h2{
+  text-align: center;
+  font-family: nunito;
+}
+
+p{
+  font-family: nunito;
+}
+
+h1{
+  font-family: nunito;
+}
+
+h3{
+  font-family: nunito;
+  text-align: center;
+}
+
+img.memes {
+    max-width:100%;
+    height:400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+img.meme {
+    max-width:100%;
+    height:400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+img.mid{
+  display: block;
+  height: 400px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+img.side {
+  display: block;
+  height: 400px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+img.nav{
+  display: block;
+  height: 45px;
+  max-width: 45px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+}
+
+div.footer{
+  height: 100%;
+  max-width: 100%;
+  background-color:#ffaaa7;
+}
+
+h3.about{
+  text-align: center;
+  font-family: nunito;
+  padding-top: 15px;
+
+}
+p.dis{
+  font-family: nunito;
+  font-size: 15px;
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+img.logo{
+    max-width:75%;
+    height:auto;
+}
+img.homepage{
+  display: block;
+  height: 400px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+img.Announcement{
+  display: block;
+  height: 400px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
