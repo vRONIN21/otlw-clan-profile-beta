@@ -1,0 +1,71 @@
+@font-face {
+  font-family: nunito;
+  src: url(FONT/Nunito-Bold.ttf);
+}
+body{
+  background-image: url('https://www.gamingscan.com/wp-content/uploads/2021/02/Lucio-Crossfade-1024x576.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+img.nav{
+  display: block;
+  height: 35px;
+  max-width: 35px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+}
+h1{
+  text-align: center;
+  font-family: nunito;
+  margin:50px;
+  padding: 15px;
+  background-color: #eca3f5;
+  margin-top: 250px;
+}
+p{
+  text-align: center;
+  font-family: nunito;
+  font-size: 20px;
+  padding: 10px;
+  padding-bottom: 0px;
+  background-color: #fdbaf8;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p.order{
+  text-align:  center;
+  font-family: nunito;
+  padding-top: 0px;
+
+}
+li{
+  text-align: center;
+  font-family: nunito;
+  font-size: 20px;
+  font-weight: bolder;
+  background-color:#feffde;
+  margin: auto;
+}
+div.container{
+
+  padding: 25px;
+
+  margin-top: 50px;
+}
+
+
+li.nav-item{
+  background-color: inherit;
+}
+
+div.col-sm{
+  text-align: center;
+  font-family: nunito;
+  font-size: 20px;
+  font-weight: bolder;
+  background-color: #ffc2b4;
+  padding: 25px;
+}

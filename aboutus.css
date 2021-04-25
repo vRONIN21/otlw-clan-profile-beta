@@ -1,0 +1,50 @@
+@font-face {
+  font-family: nunito;
+  src: url(FONT/Nunito-Bold.ttf);
+}
+img.nav{
+  display: block;
+  height: 35px;
+  max-width: 35px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+}
+h1{
+  text-align: center;
+  font-family: nunito;
+}
+p{
+  text-align: center;
+  font-family: nunito;
+  font-size: 20px;
+  padding: 10px;
+  padding-bottom: 0px;
+}
+p.order{
+  text-align:  center;
+  font-family: nunito;
+
+}
+li{
+  text-align: center;
+  font-family: nunito;
+  font-size: 20px;
+  font-weight: bolder;
+  background-color:#feffde;
+  margin: auto;
+}
+div.container{
+  background-image: url('https://images5.alphacoders.com/102/1021149.jpg');
+  padding: 25px;
+  padding-top: 50px;
+  margin-top: 50px;
+}
+
+h1.otlw{
+  background-color: #7eca9c;
+  background-attachment: fixed;
+}
+li.nav-item{
+  background-color: inherit;
+}
